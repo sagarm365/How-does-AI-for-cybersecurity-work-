@@ -4,5 +4,4 @@ AI uses machine learning algorithms to continuously learn based on the data the 
 
 <img src="Screenshot_1.jpg" alt="Girl in a jacket" width="750" height="500">
 <img src="Screenshot_2.jpg" alt="Girl in a jacket" width="750" height="500">
-<img src="Screenshot_3.jpg" alt="Girl in a jacket" width="750" height="500">
 <img src="Screenshot_4.jpg" alt="Girl in a jacket" width="750" height="500">
